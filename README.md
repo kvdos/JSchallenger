@@ -14,8 +14,8 @@ Big thanks to the author of JSchallenger.com. It's not easy to find such good ex
 
 ## Javascript basics
 
-- [Multiplication, division, and comparison operators](02%20-%20Javascript%20basics/01.js)
-- [Check if a number is even](02%20-%20Javascript%20basics/02.js)
+- [Check if a number is even](02%20-%20Javascript%20basics/01.js)
+- [Multiplication, division, and comparison operators](02%20-%20Javascript%20basics/02.js)
 - [Comparison operators, strict equality](02%20-%20Javascript%20basics/03.js)
 - [Check if a number is a whole number](02%20-%20Javascript%20basics/04.js)
 - [Check whether a string contains another string and concatenate](02%20-%20Javascript%20basics/05.js)
