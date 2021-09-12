@@ -45,14 +45,14 @@ Big thanks to the author of JSchallenger.com. It's not easy to find such good ex
 
 ## Javascript dates
 
-- [Check if two dates fall on the exact same day]()
-- [Check if two dates are equal]()
-- [Check if one date is earlier than another]()
-- [Add n days to an existing date]()
-- [Check if two dates are within 1 hour from each other]()
-- [Return the number of days between two dates]()
-- [Calculate difference between two dates in hours, minutes, and seconds]()
-- [Return the next nearest quarter hour of a date]()
+- [Check if two dates fall on the exact same day](04%20-%20Javascript%20dates/01.js)
+- [Check if two dates are equal](04%20-%20Javascript%20dates/02.js)
+- [Check if one date is earlier than another](04%20-%20Javascript%20dates/03.js)
+- [Add n days to an existing date](04%20-%20Javascript%20dates/04.js)
+- [Check if two dates are within 1 hour from each other](04%20-%20Javascript%20dates/05.js)
+- [Return the number of days between two dates](04%20-%20Javascript%20dates/06.js)
+- [Calculate difference between two dates in hours, minutes, and seconds](04%20-%20Javascript%20dates/07.js)
+- [Return the next nearest quarter hour of a date](04%20-%20Javascript%20dates/08.js)
 
 ## Javascript objects
 
