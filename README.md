@@ -1,7 +1,8 @@
 # JSchallenger
 
-Learn Javascript online by solving coding exercises.
-[JSchallenger](https://www.jschallenger.com)
+[JSchallenger](https://www.jschallenger.com) Learn Javascript online by solving coding exercises.
+
+![alt text](README/logo.png)
 
 - What: JavaScript challenges from JSchallenger.com. It includes my own code in case I got it right as well as challenge's author code.
 - Why: Just in case someone is starting, as I am currently, to learn JS and wants to practice.
@@ -30,17 +31,17 @@ Big thanks to the author of JSchallenger.com. It's not easy to find such good ex
 
 ## Javascript arrays
 
-- [Sort an array of strings alphabetically]()
-- [Sort an array of numbers in descending order]()
-- [Return last n array elements]()
-- [Return the average of an array of numbers]()
-- [Sum up all array elements with values greater than]()
-- [Check if all array elements are equal]()
-- [Remove a specific array element]()
-- [Create a range of numbers]()
-- [Return the longest string from an array of strings]()
-- [Merge an arbitrary number of arrays]()
-- [Merge two arrays with duplicate values]()
+- [Sort an array of strings alphabetically](03%20-%20Javascript%20arrays/01.js)
+- [Sort an array of numbers in descending order](03%20-%20Javascript%20arrays/02.js)
+- [Return last n array elements](03%20-%20Javascript%20arrays/03.js)
+- [Return the average of an array of numbers](03%20-%20Javascript%20arrays/04.js)
+- [Sum up all array elements with values greater than](03%20-%20Javascript%20arrays/05.js)
+- [Check if all array elements are equal](03%20-%20Javascript%20arrays/06.js)
+- [Remove a specific array element](03%20-%20Javascript%20arrays/07.js)
+- [Create a range of numbers](03%20-%20Javascript%20arrays/08.js)
+- [Return the longest string from an array of strings](03%20-%20Javascript%20arrays/09.js)
+- [Merge an arbitrary number of arrays](03%20-%20Javascript%20arrays/10.js)
+- [Merge two arrays with duplicate values](03%20-%20Javascript%20arrays/11.js)
 
 ## Javascript dates
 
