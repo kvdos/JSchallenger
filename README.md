@@ -59,15 +59,15 @@ Big thanks to the author of JSchallenger.com. It's not easy to find such good ex
 
 ## Javascript objects
 
-- [Accessing object properties two]()
-- [Accessing object properties one]()
-- [Accessing object properties three]()
-- [Remove a property from an object]()
-- [Swap object keys and values]()
-- [Add property to each object in array]()
-- [Merge two objects with matching keys]()
-- [Extracting information from objects]()
-- [Replace empty strings in object with null values]()
+- [Accessing object properties two](05%20-%20Javascript%20objects/01.js)
+- [Accessing object properties one](05%20-%20Javascript%20objects/02.js)
+- [Accessing object properties three](05%20-%20Javascript%20objects/03.js)
+- [Remove a property from an object](05%20-%20Javascript%20objects/04.js)
+- [Swap object keys and values](05%20-%20Javascript%20objects/05.js)
+- [Add property to each object in array](05%20-%20Javascript%20objects/06.js)
+- [Merge two objects with matching keys](05%20-%20Javascript%20objects/07.js)
+- [Extracting information from objects](05%20-%20Javascript%20objects/08.js)
+- [Replace empty strings in object with null values](05%20-%20Javascript%20objects/09.js)
 
 ## Javascript Sets
 
