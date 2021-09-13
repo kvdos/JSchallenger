@@ -2,7 +2,10 @@
 
 [JSchallenger](https://www.jschallenger.com) Learn Javascript online by solving coding exercises.
 
-![alt text](README/logo.png)
+<!-- ![alt text](README/logo.png) -->
+<p align="center">
+  <img width="460" src="README/logo.png">
+</p>
 
 - What: JavaScript challenges from JSchallenger.com. It includes my own code in case I got it right as well as challenge's author code.
 - Why: Just in case someone is starting, as I am currently, to learn JS and wants to practice.
