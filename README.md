@@ -71,10 +71,10 @@ Big thanks to the author of JSchallenger.com. It's not easy to find such good ex
 
 ## Javascript Sets
 
-- [Check if value is present in Set]()
-- [Convert a Set to Array]()
-- [Get union of two sets]()
-- [Creating Javascript Sets]()
-- [Delete element from Set]()
-- [Add multiple elements to Set]()
-- [Get Intersection of two Javascript Sets]()
+- [Check if value is present in Set](06%20-%20Javascript%20Sets/01.js)
+- [Convert a Set to Array](06%20-%20Javascript%20Sets/02.js)
+- [Get union of two sets](06%20-%20Javascript%20Sets/03.js)
+- [Creating Javascript Sets](06%20-%20Javascript%20Sets/04.js)
+- [Delete element from Set](06%20-%20Javascript%20Sets/05.js)
+- [Add multiple elements to Set](06%20-%20Javascript%20Sets/06.js)
+- [Get Intersection of two Javascript Sets](06%20-%20Javascript%20Sets/07.js)
