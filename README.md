@@ -1,6 +1,6 @@
-# JSchallenger
+# [JSchallenger](https://www.jschallenger.com)
 
-[JSchallenger](https://www.jschallenger.com) Learn Javascript online by solving coding exercises.
+Learn Javascript online by solving coding exercises.
 
 <!-- ![alt text](README/logo.png) -->
 <p align="center">
@@ -10,7 +10,7 @@
 - What: JavaScript challenges from JSchallenger.com. It includes my own code in case I got it right as well as challenge's author code.
 - Why: Just in case someone is starting, as I am currently, to learn JS and wants to practice.
 
-Big thanks to the author of JSchallenger.com. It's not easy to find such good exercises for free.
+Big thanks to [Erik Kückelheim](https://www.erik-kueckelheim.com), the author of JSchallenger.com. It's not easy to find such good exercises for free.
 
 # Index
 
