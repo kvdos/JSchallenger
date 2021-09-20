@@ -8,6 +8,11 @@ function myFunction(obj) {
   const res = {};
   for (let key in obj) res[obj[key]] = key;
   return res;
+
+  // AUTHOR'S:
+  // return Object.keys(obj).reduce((acc, cur) => {
+  //   return { ...acc, [obj[cur]]: cur };
+  // }, {});
 }
 
 console.log(
