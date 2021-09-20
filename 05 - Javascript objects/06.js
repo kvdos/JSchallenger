@@ -9,9 +9,13 @@ function myFunction(arr, str) {
   arr.map((obj) => (obj.continent = str));
   return arr;
 
+  // arr.forEach(el => el.continent = str);
+  // return arr;
+
   //   for (let key in arr) arr[key] = { ...arr[key], continent: str };
   //   return arr;
 
+  // AUTHOR'S:
   //   return arr.map((obj) => ({ ...obj, continent: str }));
 }
 
